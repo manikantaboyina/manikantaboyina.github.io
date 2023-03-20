@@ -1,0 +1,69 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+
+/* navbar css starts here  */
+.navbar-brand{
+    font-family: 'Times New Roman';
+    font-size: 1.25rem;    
+    color: rgb(14, 15, 15) !important;
+}
+
+
+
+
+/* navbar css ends here  */
+
+/* hero content css starts here  */
+.hero-content{
+    height: 80vh;
+    background-color: #84b8ba;
+    color: #ffffff;
+    padding: 5rem;  
+      
+}
+
+.hero-img{
+    height: 55vh;
+    width: 70%;
+}
+
+@media only screen and (max-width: 766px) {
+    .hero-img {
+      display: none;
+    }
+}
+
+
+/* hero content css ends here  */
+
+/* get-started-buttons css starts here*/
+
+
+
+/* footer css starts here */
+footer{
+    
+    background-color:  rgb(212, 213, 142);;
+    
+    justify-content: center;
+}
+
+.social-icons li{
+    
+    display: inline;
+    padding: 0.5rem;
+    
+}
+
+.github{
+    color: #24292e;
+}
+
+.linkedin{
+    color: #0077b5;
+}
+
+
+/* footer css ends here  */
